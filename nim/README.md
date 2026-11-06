@@ -1,9 +1,15 @@
 # how to run :
 
-jupyter note book run :
+## setup virtual enviroment and jupyter
+
   ./setup.sh
+
+## jupyter note book run :
+  
   ./run.sh
-raw python run :
+  
+## raw python run :
+
   ./bare_run.sh
 
 # گزارش پروژه: بازی Nim و تحلیل داده‌ها (EDA)
